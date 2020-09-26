@@ -1,9 +1,0 @@
-FUNCTIONALITATI STACKOVERFLOW
-
-1) Creare cont de utilizator.
-2) Numeroase filtre integrate.
-3) Fiecare postare are conceptul de vot, vizualizari.
-4) Userii pot primii badgeuri in functie de achievement-urile dobandite.
-5) Iti poti promova produsul pe acest site.
-6) Exista tag-uri, acestea usurand viata utilizatorilor.
-7) Poti cauta locuri de munca.
