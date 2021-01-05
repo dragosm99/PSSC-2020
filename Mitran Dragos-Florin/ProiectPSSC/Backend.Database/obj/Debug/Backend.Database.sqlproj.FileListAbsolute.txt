@@ -1,0 +1,12 @@
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\bin\Debug\Backend.Database.dacpac
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\bin\Debug\Backend.Database.dll
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\bin\Debug\Backend.Database.pdb
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\obj\Debug\Backend.Database.sqlprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\obj\Debug\Backend.Database.dll
+C:\Users\Mihai\Desktop\RepoPSSCNew\stackunderflow\Backend.Database\obj\Debug\Backend.Database.pdb
+F:\PSSC\stackunderflow\Backend.Database\bin\Debug\Backend.Database.dacpac
+F:\PSSC\stackunderflow\Backend.Database\bin\Debug\Backend.Database.dll
+F:\PSSC\stackunderflow\Backend.Database\bin\Debug\Backend.Database.pdb
+F:\PSSC\stackunderflow\Backend.Database\obj\Debug\Backend.Database.sqlprojAssemblyReference.cache
+F:\PSSC\stackunderflow\Backend.Database\obj\Debug\Backend.Database.dll
+F:\PSSC\stackunderflow\Backend.Database\obj\Debug\Backend.Database.pdb
